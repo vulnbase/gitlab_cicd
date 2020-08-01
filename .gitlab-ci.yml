@@ -11,3 +11,4 @@ build1:
   stage: build
   script:
     - echo "Build"
+    - echo "New command"
